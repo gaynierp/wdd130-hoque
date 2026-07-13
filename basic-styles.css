@@ -9,6 +9,19 @@ body{
     max-width: 100%;
 }
 
+.art-header{
+    margin: 20px auto;
+    max-width: 600px;
+    font-size: 1.2em;
+}
+
+.art-header h1{
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
 #guitar-parts-heading{
     color: antiquewhite;
     width: fit-content;
@@ -24,7 +37,7 @@ body{
     margin-bottom: 20px;
     max-width: 1000px;
 }
-.guitar-part p, .guitar-part h2{
+.guitar-part p, .guitar-part h3{
     text-align: left;
     margin-left: 20px;
 }
