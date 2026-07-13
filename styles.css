@@ -6,6 +6,7 @@
 body {
   background: #0a0f1f;
   min-height: 100%;
+  box-sizing: border-box;
 }
 
 header img {
@@ -111,4 +112,8 @@ p {
   color: antiquewhite;
   text-align: center;
   margin: 0, auto;
+}
+
+footer {
+  padding: 30px;
 }
